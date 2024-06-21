@@ -1,4 +1,4 @@
-# Configuración de test en Node.js
+# Configuración de testing en Node.js
 
 ### 1. Instalar dependencias
         npm i jest supertest -D
